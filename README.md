@@ -1,7 +1,7 @@
 # Links
 
 - Solution URL: (https://github.com/levani-sarishvili/qr-code-component)
-- Live Site URL: (https://elegant-travesseiro-50ae75.netlify.app/)
+- Live Site URL: (https://qr-code-component-levani-sarishvili.netlify.app/)
 
 # Built with
 
