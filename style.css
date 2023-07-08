@@ -45,15 +45,3 @@ body {
   margin-bottom: 10px;
   padding: 0 10px;
 }
-
-footer {
-  font-size: 200px;
-}
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
