@@ -6,10 +6,9 @@
 
 body {
   background-color: hsl(212, 45%, 89%);
-  font-family: outfit;
 }
 
-.container {
+.card-component {
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -20,28 +19,35 @@ body {
   background-color: hsl(0, 0%, 100%);
   padding: 10px;
   border-radius: 15px;
+  overflow: hidden;
 }
 
-img {
-  width: 100%;
-  border-radius: 7px;
-  margin-bottom: 20px;
+.card-img {
+  max-width: 100%;
+  border-radius: 10px;
+  margin-bottom: 15px;
 }
 
-.main-text {
+.card-title {
   font-size: 15px;
   font-family: "Outfit", sans-serif;
   color: hsl(218, 44%, 22%);
   font-weight: 700;
   margin-bottom: 10px;
+  padding: 0 10px;
 }
 
-.secondary-text {
+.card-text {
   font-size: 12px;
   font-family: "Outfit", sans-serif;
   color: hsl(220, 15%, 55%);
   font-weight: 400;
   margin-bottom: 10px;
+  padding: 0 10px;
+}
+
+footer {
+  font-size: 200px;
 }
 
 .attribution {
